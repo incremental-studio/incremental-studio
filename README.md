@@ -3,7 +3,7 @@
 An independent product studio housing the side projects of Benjamin Sehl.
 
 Particular projects in development include:
-* (Margin)[https://margin.global]: A contemporary care company
+* [Margin](https://margin.global): A contemporary care company
 * Dossier: A personal web page builder
 * Bento: A personal productivity tool and dashboard
 * Office Hours: A calendar scheduling service
