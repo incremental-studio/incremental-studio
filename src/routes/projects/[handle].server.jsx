@@ -19,17 +19,11 @@ const data = {
   dossier: {
     title: 'Dossier',
     description:
-      'I find link-in-bio tools and website builders unecessarily complex. I feel like, when it comes to personal websites, it should be as simple as writing a Google Doc. Theming is usually pretty inelegant and requires a lot of manual tweaking … at least for me, if it’s not dead simple, I’d rather just write code.',
-  },
-  margin: {
-    title: 'Margin',
-    description:
-      'A contemporary care company, we’re focused on quality and design above all else.',
-    link: 'https://margin.global',
+      `Another personal website builder, made to meet some personal beliefs. They should be as easy to write/manage as Apple Notes. They should express personal style, without having to think about design. They should be stewards, not owners, of the data. They shouldn’t track me.`,
   },
   'office-hours': {
     title: 'Office Hours',
     description:
-      'An alternative to other meeting-booking services that’s focused on simplicity, and embraces constraints to keep your calendar a little more sane.',
+      'An alternative to other meeting-booking services that’s focused on simplicity, embracing constraints to keep your calendar a little more sane.',
   },
 };
