@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header>
       <h1>
-        <Link to="/">Incremental Studio</Link>
+        <Link to="/">Naptime</Link>
       </h1>
     </header>
   );
