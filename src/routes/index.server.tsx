@@ -6,21 +6,25 @@ const projects = [
   {
     name: "Dossier",
     description: "A personal web page builder",
+    status: "Building",
     handle: "dossier",
   },
   {
     name: "Bento",
     description: "A personal productivity tool and dashboard",
+    status: "Designing",
     handle: "bento",
   },
   {
     name: "Office Hours",
     description: "A calendar scheduling service",
+    status: "Designing",
     handle: "office-hours",
   },
   {
     name: "Carbon",
     description: "A component library for ecommerce sites",
+    status: "Building",
     handle: "carbon",
   },
 ];
@@ -29,9 +33,9 @@ export default function Home() {
   return (
     <Layout>
       <p>
-        The side projects of <a href="https://sehl.ca">Benjamin&nbsp;Sehl</a>.
+        Ideas <a href="https://sehl.ca">I’m</a> chipping away on while my kids
+        are napping:
       </p>
-      <p>Ideas I’m chipping away on while my kids are napping:</p>
       <ul>
         {projects.map((project) => (
           <li key={project.handle}>
@@ -42,7 +46,8 @@ export default function Home() {
       </ul>
       <p>
         Some of these projects might become proper services, others may never
-        see the light of day. The goal is just to build and learn.
+        see the light of day. I’m just working on them for the fun of building and
+        leaning.
       </p>
     </Layout>
   );
