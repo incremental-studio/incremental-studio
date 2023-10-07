@@ -45,9 +45,7 @@ export default function Home() {
         ))}
       </ul>
       <p>
-        Some of these projects might become proper services, others may never
-        see the light of day. I’m just working on them for the fun of building and
-        leaning.
+        I’m just building them to learn and explore. Maybe one day I'll ship something publicly… but I don’t have any time to maintain stuff 🤷‍♂️.
       </p>
     </Layout>
   );
