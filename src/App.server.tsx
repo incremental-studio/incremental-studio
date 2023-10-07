@@ -24,9 +24,9 @@ function App() {
 }
 
 const seoData = {
-  title: "Incremental Studio",
+  title: "Naptime Work",
   description:
-    "Works in progress. An independent product studio run by Benjamin Sehl.",
+    "Ideas I’m chipping away on while my kids are napping.",
 };
 
 export default renderHydrogen(App);
