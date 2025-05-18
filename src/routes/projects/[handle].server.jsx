@@ -25,9 +25,4 @@ const data = {
     description:
       "An alternative to other meeting-booking services that’s focused on simplicity, embracing constraints to keep your calendar a little more sane.",
   },
-  carbon: {
-    title: "Carbon",
-    description:
-      "A component library for ecommerce sites, built with Tailwind and Radix",
-  },
 };
