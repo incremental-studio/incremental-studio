@@ -21,12 +21,6 @@ const projects = [
     status: "Designing",
     handle: "office-hours",
   },
-  {
-    name: "Carbon",
-    description: "A component library for ecommerce sites",
-    status: "Building",
-    handle: "carbon",
-  },
 ];
 
 export default function Home() {
